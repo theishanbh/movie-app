@@ -1,0 +1,31 @@
+# Node.js / Express Backend (./backend)
+backend/node_modules/
+backend/.env
+backend/logs
+backend/*.log
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+backend/.nyc_output
+backend/.coverage
+backend/.vscode/
+backend/dist/
+
+# Next.js / Tailwind Frontend (./frontend)
+frontend/node_modules/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/.next/
+frontend/out/
+frontend/.vscode/
+frontend/logs
+frontend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# General
+.DS_Store
+Thumbs.db
